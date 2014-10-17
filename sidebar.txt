@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wat:home|Door43 (wat)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wat|d43-wat repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wat/archive/master.zip|d43-wat.zip]]
+
+**Recent Changes**
+{{changes>ns = wat}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wat|Ethnologue data]]
+
